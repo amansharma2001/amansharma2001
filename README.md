@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Aman Sharma! 
+
+🌱 I’m currently a Student
+🔭 I’m currently working on my Problem Solving Ability
+
 
 <!--
 **amansharma2001/amansharma2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
