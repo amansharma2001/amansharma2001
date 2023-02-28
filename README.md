@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Aman Sharma! 
 
-🌱 I’m currently a Student
+🌱 I’m currently a Student 
+
 🔭 I’m currently working on my Problem Solving Ability
 
 
