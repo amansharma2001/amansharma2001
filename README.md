@@ -6,7 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=amansharma2001&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
