@@ -5,6 +5,8 @@
 🔭 I’m currently working on my Problem Solving Ability
 
 
+[![](https://visitcount.itsvg.in/api?id=amansharma2001&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **amansharma2001/amansharma2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
