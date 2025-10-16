@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aman Sharma! 
 
-🌱 I’m currently a Student 
+🌱 I’m currently a Full-Stack Engineer in Accenture.
 
 🔭 I’m currently working on my Problem Solving Ability
 
